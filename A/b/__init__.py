@@ -1,0 +1,1 @@
+from A.a.tic import tic
